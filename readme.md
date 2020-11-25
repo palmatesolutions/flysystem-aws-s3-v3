@@ -13,7 +13,7 @@ This is a Flysystem adapter for the aws-sdk-php v3.
 # Installation
 
 ```bash
-composer require league/flysystem-akeneo-aws3v3
+composer require scchethu/flysystem-akeneo-aws3v3
 ```
 
 # Bootstrap
