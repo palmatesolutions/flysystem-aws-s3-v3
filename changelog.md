@@ -1,6 +1,6 @@
 # Changelog
 
-##1.0.30 - 2020-11-25
+## 1.0.30 - 2020-11-25
 
 * Akeneo AWS connector with default public url
 
