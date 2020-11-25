@@ -1,11 +1,11 @@
 {
     "name": "league/flysystem-aws-s3-v3",
-    "description": "Flysystem adapter for the AWS S3 SDK v3.x",
+    "description": "Flysystem adapter for the Akeneo AWS S3/DO SDK v3.x Connector",
     "license": "MIT",
     "authors": [
         {
-            "name": "Frank de Jonge",
-            "email": "info@frenky.net"
+            "name": "Chethan S C",
+            "email": "scchethu@gmail.com"
         }
     ],
     "require": {
