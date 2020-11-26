@@ -1,5 +1,5 @@
 {
-    "name": "scchethu/flysystem-akeneo-aws3v3",
+    "name": "palmatesolutions/flysystem-akeneo-aws3v3",
     "description": "Flysystem adapter for the Akeneo AWS S3/DO SDK v3.x Connector",
     "license": "MIT",
     "authors": [
