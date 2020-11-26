@@ -14,7 +14,7 @@ This is a Flysystem adapter for the League\Flysystem\AwsS3v3.
 # Installation
 
 ```bash
-composer require scchethu/flysystem-akeneo-aws3v3:"^1.0"
+composer require palmatesolutions/flysystem-akeneo-aws3v3:"^1.0"
 ```
 
 # Bootstrap
