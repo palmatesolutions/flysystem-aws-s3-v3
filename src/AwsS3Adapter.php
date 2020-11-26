@@ -634,6 +634,9 @@ class AwsS3Adapter extends AbstractAdapter implements CanOverwriteFiles
     {
         $options = $this->options;
 
+        /*PMS fix for akeneo default public url*/
+        $config->set('visibility','public');
+
         if ($visibility = $config->get('visibility')) {
             // For local reference
             $options['visibility'] = $visibility;

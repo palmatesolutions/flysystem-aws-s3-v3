@@ -8,12 +8,13 @@
 [![Packagist Version](https://img.shields.io/packagist/v/league/flysystem-aws-s3-v3.svg?style=flat-square)](https://packagist.org/packages/league/flysystem-aws-s3-v3)
 [![Total Downloads](https://img.shields.io/packagist/dt/league/flysystem-aws-s3-v3.svg?style=flat-square)](https://packagist.org/packages/league/flysystem-aws-s3-v3)
 
-This is a Flysystem adapter for the aws-sdk-php v3.
+This is a Flysystem adapter for the League\Flysystem\AwsS3v3.
+
 
 # Installation
 
 ```bash
-composer require league/flysystem-aws-s3-v3
+composer require scchethu/flysystem-akeneo-aws3v3:"^1.0"
 ```
 
 # Bootstrap
